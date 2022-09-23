@@ -149,4 +149,4 @@ With a reference later in the document defining the URL location:
 
 [id]: https://octodex.github.com/images/dojocat.jpg  "The Dojocat"
 
-Inline image ![Minion](https://octodex.github.com/images/minion.png)
+Inline image ![Minion](https://octodex.github.com/images/minion.png) with longer text. And another inline image ![Minion](https://octodex.github.com/images/minion.png) 
